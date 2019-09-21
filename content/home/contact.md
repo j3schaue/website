@@ -18,3 +18,6 @@ autolink = true
 email_form = 0
 +++
 
+My dog, Woodhouse, will sometimes join in on office hours. He doesn't know anything about statistics, but he likes people.
+
+
