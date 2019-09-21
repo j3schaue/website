@@ -1,6 +1,6 @@
 ---
 title: "Consistency of effects is important in replication"
-date: 2019-10-19
+date: 2019-09-20
 publishDate: 2019-10-19T21:11:36.393200Z
 authors: ["Larry V. Hedges", "Jacob M. Schauer"]
 publication_types: ["2"]
@@ -8,4 +8,6 @@ abstract: "In this rejoinder, we discuss Mathur and VanderWeele’s response to 
 featured: false
 publication: "*Psychological Methods*"
 ---
+
+
 
