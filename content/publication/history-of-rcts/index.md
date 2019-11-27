@@ -13,7 +13,7 @@ __Sources of evidence and main arguments:__ Although some of the early studies u
 __Conclusions:__ These developments suggest that there is a promising future for randomised trials in the USA. American education scientists must remain committed to explaining why evidence from randomised field trials has an indispensable role to play in making wise decisions about education policy and advancing our capacity to improve education for a productive workforce and a successful society."
 featured: false
 publication: "*Educational Research*"
-url_pdf: "  https://doi.org/10.1080/00131881.2018.1493350 "
+url_pdf: "https://doi.org/10.1080/00131881.2018.1493350"
 doi: "10.1080/00131881.2018.1493350"
 ---
 
