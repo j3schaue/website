@@ -1,5 +1,5 @@
 ---
-title: "TSynthetic data disclosure control: Promise and feasibility for SLDS"
+title: "Synthetic data disclosure control: Promise and feasibility for SLDS"
 date: "under review"
 # publishDate: 2019-09-19T21:11:36.391446Z
 authors: ["Jacob M. Schauer", "Arend M. Kuyper", "Frank Feinis", "Eric C. Hedberg", "Larry V. Hedges"]
