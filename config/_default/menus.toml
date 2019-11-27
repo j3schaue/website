@@ -20,6 +20,11 @@
   weight = 50
 
 [[main]]
+  name = "In Progress"
+  url = "#works_in_progress"
+  weight = 60
+
+[[main]]
   name = "Presentations"
   url = "#talks"
   weight = 70
