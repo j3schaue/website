@@ -1,5 +1,5 @@
 ---
-title: "Reconsidering Statistical Methods for Assessing Replication"
+title: "Reconsidering statistical methods for assessing replication"
 date: "under review"
 # publishDate: 2019-09-19T21:11:36.391446Z
 authors: ["Jacob M. Schauer"]
