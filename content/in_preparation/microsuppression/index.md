@@ -1,5 +1,5 @@
 ---
-title: "The effects of microsuppression on state education data quality."
+title: "The effects of microsuppression on state education data quality"
 date: "under review"
 # publishDate: 2019-09-19T21:11:36.391446Z
 authors: ["Jacob M. Schauer", "Arend M. Kuyper", "Eric C. Hedberg", "Larry V. Hedges"]
