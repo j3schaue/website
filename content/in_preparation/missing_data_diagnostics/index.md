@@ -1,0 +1,13 @@
+---
+title: "Exploratory analyses for missing data in meta-analyses"
+date: "under review"
+# publishDate: 2019-09-19T21:11:36.391446Z
+authors: ["Jacob M. Schauer", "Karina Dìaz", "Therese D. Pigott"]
+publication_types: ["3"]
+abstract: "While systematic reviews of substance abuse interventions hold great promise for informing what works for whom and under what conditions, such reviews must contend with missing data. Missing data can limit the accuracy of statistical analyses or the relevance of the evidence base and deciding how to handle missing data depends on why it is missing in the first place. In this tutorial, we examine methods for exploring missingness in a dataset in ways that can help identify the sources and extent of missingness, as well as clarify gaps in evidence. We demonstrate these methods on a meta-analysis of substance abuse interventions for adolescents to highlight areas where the evidence less clear and where statistical adjustments taken by the original authors appear to have been necessary."
+featured: false
+publication: "*Alcohol and Alcoholism*"
+url_pdf: "pdf/MA_missing_data_EDA.pdf"
+---
+
+__Abstract:__ While systematic reviews of substance abuse interventions hold great promise for informing what works for whom and under what conditions, such reviews must contend with missing data. Missing data can limit the accuracy of statistical analyses or the relevance of the evidence base and deciding how to handle missing data depends on why it is missing in the first place. In this tutorial, we examine methods for exploring missingness in a dataset in ways that can help identify the sources and extent of missingness, as well as clarify gaps in evidence. We demonstrate these methods on a meta-analysis of substance abuse interventions for adolescents to highlight areas where the evidence less clear and where statistical adjustments taken by the original authors appear to have been necessary.
