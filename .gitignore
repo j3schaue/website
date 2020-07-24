@@ -1,2 +1,9 @@
 public/
 .idea/
+.Rproj.user
+.gitignore
+.DS_Store
+.RData
+.Rhistory
+*.DS_Store
+*.icloud
