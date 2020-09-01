@@ -90,11 +90,11 @@ phone = "+1 (202) 569-5276"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "2046 Sheridan Road", city = "Evanston", region = "IL", postcode = "60201", country = "United States", country_code = "US"}
+address = {street = "680 N Lake Shore Drive, Suite 1400", city = "Chicago", region = "IL", postcode = "60611", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "42.055635", longitude = "-87.677568"}
+coordinates = {latitude = "41.8946", longitude = "-87.6167"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
