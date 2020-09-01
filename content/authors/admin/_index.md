@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Northwestern University
-  url: "https://www.ipr.northwestern.edu/"
+- name: Feinberg School of Medicine, Northwestern University
+  url: "https://www.feinberg.northwestern.edu/sites/bcc/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests involve statistical methods for the social and health sciences.
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Jake Schauer is a postdoctoral fellow at Northwestern University's Institute for Policy Research where he develops statistical methods for the social and health sciences. His research interests include methods for studying replication, modern advances in meta-analysis, approaches to missing data, and data privacy.
+Jake Schauer is an Assistant Professor of Preventive Medicine at Northwestern University's Feinberg School of Medicine. His research interests include methods for studying replication, modern advances in meta-analysis, approaches to missing data, and data privacy.
