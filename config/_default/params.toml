@@ -85,7 +85,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "jms@u.northwestern.edu"
+email = "jms@northwestern.edu"
 phone = "+1 (202) 569-5276"
 
 # Address
