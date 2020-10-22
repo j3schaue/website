@@ -1,6 +1,6 @@
 ---
 title: "On the accuracy of replication failure rates"
-date: "in preparation"
+date: "under review"
 # publishDate: 2019-09-19T21:11:36.391446Z
 authors: ["Jacob M. Schauer"]
 publication_types: ["3"]
