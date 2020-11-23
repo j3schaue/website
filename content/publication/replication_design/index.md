@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "The design of replication studies"
 date: "accepted"
 # publishDate: 2019-09-19T21:11:36.391446Z
 authors: ["Larry V. Hedges", "Jacob M. Schauer"]
