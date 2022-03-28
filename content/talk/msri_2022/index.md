@@ -1,22 +1,23 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Statistics of Replication: Considerations and Pitfalls"
-event: "Loyola University Chicago, Department of Mathematics and Data Science"
+title: "Evaluating Replicability: Considerations for Analyses and Implications for Design"
+event: "MSRI Hot Topics: Foundations of Stable, Generalizable and Transferable Statistical Learning"
+event_url: https://www.msri.org/workshops/1020
 location: Virtual
 summary:
 abstract: "
-Recent research has questioned the replicability of scientific findings in various fields, including medicine, economics, and psychology. This research has also revealed that there is no standard analysis methods for replication. As a result, it is not clear how we should be designing and analyzing replication studies. This talk describes statistical considerations for studying replication, and examines their implications. It identifies some surprising statistical strengths and limitations of previous research, including the use of statistical methods with surprisingly high error rates. It then argues that such issues can be avoided in future efforts by taking into account key statistical considerations in the planning and analysis of replication studies.
+As high-profile empirical research has questioned the replicability of scientific findings, it has become clear that there is no standard approach to designing and analyzing studies to evaluate replication. Ambiguity regarding key estimands for 'replication' and the purpose of replication research has shaped statistical treatments of the topic and sparked debate in several fields. This talk sheds light on this ambiguity by identifying different possible statistical definitions of 'replication' that could be studied. It then highlights relevant analysis methods and derives their statistical properties. Finally, it connects these properties to key implications for the design of primary studies, as well as subsequent replication attempts.
 "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-11-18T16:00:00-17:00
+date: 2022-03-10T10:00:00-10:30
 # date_end: 2019-07-22T13:40:37-05:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2021-11-18T16:00:00-17:00
+publishDate: 2022-03-10T10:00:00-10:30
 
 authors: []
 tags: []
