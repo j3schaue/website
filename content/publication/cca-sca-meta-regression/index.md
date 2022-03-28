@@ -5,7 +5,7 @@ date: "in press"
 authors: ["Jacob M. Schauer", "Karina Diaz", "Jihyun Lee", "Therese D. Pigott"]
 publication_types: ["3"]
 abstract: ""
-publication: *Research Synthesis Methods*
+publication: "*Research Synthesis Methods*"
 doi: doi/10.1002/jrsm.1558
 featured: false
 ---
